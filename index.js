@@ -16,6 +16,7 @@ if (hacker1.length > hacker2.length) {
     console.log(`Wow, you both have equally long names, ${hacker1.length} characters!`);
 }
 
+
 // Iteration 3: Loops
 // Iteration 3.1
 
@@ -45,3 +46,4 @@ if (hacker1.localeCompare(hacker2) < 0) {
 }
 
 
+// working with Carlo was great. Gracias caballero
